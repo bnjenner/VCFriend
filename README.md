@@ -1,8 +1,8 @@
 # VCFriend
-## Here for reference purposes. Do not use and do not try to write your own VCF parser. There are plenty of great tools out there.
+## !!! Here for reference purposes. Do not use and do not try to write your own VCF parser. There are plenty of great tools out there !!!
 
 
-** !!! Variant calling softwares utilizes VCF files that can sometimes be difficult to parse. VCFriend is a set of tools that can make extracting and analyzing information from VCF files easier !!! **
+Variant calling softwares utilizes VCF files that can sometimes be difficult to parse. VCFriend is a set of tools that can make extracting and analyzing information from VCF files easier.
 
 
  
